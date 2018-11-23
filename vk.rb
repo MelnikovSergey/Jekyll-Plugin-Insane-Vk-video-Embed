@@ -1,6 +1,7 @@
 # Jekyll Plugin - Insane Vk-video Embed
 #
 # Author: Sergey Melnikov - https://github.com/MelnikovSergey
+# Description: description will be later =)
 
 module Jekyll
   class Vk < Liquid::Tag
