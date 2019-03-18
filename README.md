@@ -5,8 +5,8 @@ This plugin makes it easy to embed videos from Vk by using a simple Liquid tag t
 
 {% vk id=12345678&hash=12345678 %}
 
-# Instructions
+## Instructions
 Copy/download the vk.rb file and place it in your _plugins directory.
 
-# License
+## License
 The code is open source and available under the MIT License.
